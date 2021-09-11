@@ -8,7 +8,13 @@ body {
     position: absolute;
     top: 12px;
 }
-
+hr{
+    position: absolute;
+    border:solid 1px rgb(238, 238, 238);
+    width: 90%;
+    right: 5%;
+    color: #FFFF00;
+}
 h5,
 p {
     text-align: center;
