@@ -27,7 +27,7 @@ img:hover {
     color: rgb(255, 255, 255);
     padding: 30px;
     border-radius: 4px;
-    bottom: -430;
+    bottom: -360;
     left: -10px;
     width: 100.5%;
     margin: auto;
@@ -119,5 +119,10 @@ a:hover {
         bottom: -500;
         overflow: hidden;
         width: 100.75%;
+    }
+}
+@media only screen and (max-width: 1024px ) {
+    .foot {
+        display: none;
     }
 }
